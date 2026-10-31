@@ -1,0 +1,18 @@
+CAGLIARI TRAFFIC CONTROL — STATIC PORTFOLIO NOTICES
+
+Original presentation
+No additional general reuse license is granted here for original site code or prose. Statutory rights, rights in facts, and the third-party/data terms below are unaffected. This notice does not apply a new license to historical Cagliari repository contributions or model checkpoints.
+
+OpenStreetMap data
+Simulation network derived from © OpenStreetMap contributors.
+Attribution and source information: https://www.openstreetmap.org/copyright
+The derived network database is available under the Open Data Commons Open Database License (ODbL) 1.0: https://opendatacommons.org/licenses/odbl/1-0/
+The complete network used by all 35 evaluated cases is included at data/network.net.xml. The accompanying data/README.txt and data/provenance.json identify its contents and exact hash. This machine-readable offer is part of the downloadable site package and requires no account or payment.
+These data terms apply to the network database; separate content terms below remain intact. They do not impose ODbL on original website code or claim that synthetic measurements were supplied by OpenStreetMap.
+
+SUMO type-map source and notices
+The network's highway/railway type definitions were generated using SUMO's OSM type map. The exact input source is included at licenses/osmNetconvert.typ.xml, from Debian sumo-tools 1.15.0+dfsg-1+deb12u1 (source package sumo at that version). Its original terms are preserved in licenses/DEBIAN-SUMO-COPYRIGHT.txt, including the EPL-2.0 text, and licenses/SUMO-NOTICE.md. The EPL-2.0 terms are also available at https://www.eclipse.org/legal/epl-2.0/ . Do not replace these component terms with the original-presentation statement above or with ODbL. The input source is supplied unmodified; no SUMO executable, library, Python distribution or browser framework is included in this static site.
+The full upstream/package notices mention components beyond the single type-map source shipped here. Their presence is not a claim that those components are distributed by this site or that the separate full simulation image has been cleared for redistribution.
+
+Recorded scientific evidence
+Results and replay values are selected from the audited frozen Step 09 simulation records. Traffic demand is synthetic and uncalibrated; the inferred crossings, junction arrangement and signal timings are experimental. The replay shows recorded aggregate queues and signal stages, not measured city traffic, individual trajectories, a live simulation or a geographic map. No affiliation or endorsement by OpenStreetMap, Eclipse SUMO or the City of Cagliari is implied.
